@@ -1,0 +1,14 @@
+{
+    "name": "Forecastify",
+    "version": "1.0.0",
+    "description": "Weather report of your city",
+    "manifest_version": 3,
+    "permissions": [
+        "geolocation"
+    ],
+    "author": "Triyasa",
+    "action":{
+        "default_popup": "forecast.html",
+        "default_title": "Weather Report"
+    }
+}
